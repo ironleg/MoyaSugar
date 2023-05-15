@@ -1,0 +1,79 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Alamofire",
+        "repositoryURL": "https://github.com/Alamofire/Alamofire.git",
+        "state": {
+          "branch": null,
+          "revision": "bc268c28fb170f494de9e9927c371b8342979ece",
+          "version": "5.7.1"
+        }
+      },
+      {
+        "package": "Immutable",
+        "repositoryURL": "https://github.com/devxoul/Immutable.git",
+        "state": {
+          "branch": null,
+          "revision": "3701f738a11b8f65b6f740ffd0978d200b466c4a",
+          "version": "0.6.0"
+        }
+      },
+      {
+        "package": "Moya",
+        "repositoryURL": "https://github.com/Moya/Moya.git",
+        "state": {
+          "branch": null,
+          "revision": "c263811c1f3dbf002be9bd83107f7cdc38992b26",
+          "version": "15.0.3"
+        }
+      },
+      {
+        "package": "Nimble",
+        "repositoryURL": "https://github.com/Quick/Nimble.git",
+        "state": {
+          "branch": null,
+          "revision": "7a46a5fc86cb917f69e3daf79fcb045283d8f008",
+          "version": "8.1.2"
+        }
+      },
+      {
+        "package": "Quick",
+        "repositoryURL": "https://github.com/Quick/Quick.git",
+        "state": {
+          "branch": null,
+          "revision": "09b3becb37cb2163919a3842a4c5fa6ec7130792",
+          "version": "2.2.1"
+        }
+      },
+      {
+        "package": "ReactiveSwift",
+        "repositoryURL": "https://github.com/ReactiveCocoa/ReactiveSwift.git",
+        "state": {
+          "branch": null,
+          "revision": "b772fa0b624926e6e2f21acbb79297736a05c585",
+          "version": "6.1.0"
+        }
+      },
+      {
+        "package": "RxSwift",
+        "repositoryURL": "https://github.com/ReactiveX/RxSwift.git",
+        "state": {
+          "branch": null,
+          "revision": "9dcaa4b333db437b0fbfaf453fad29069044a8b4",
+          "version": "6.6.0"
+        }
+      },
+      {
+        "package": "Then",
+        "repositoryURL": "https://github.com/devxoul/Then.git",
+        "state": {
+          "branch": null,
+          "revision": "d41ef523faef0f911369f79c0b96815d9dbb6d7a",
+          "version": "3.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
